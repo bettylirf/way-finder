@@ -1,0 +1,12 @@
+---
+:id: 74923865
+:submitters:
+- :name: Betty Li
+  :email: rl4126@nyu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-04-15 09:15:05.946714000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-04-15 02:15:05.946714000 Z
+:status: processed
+:score: 89.0
